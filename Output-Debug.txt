@@ -1,0 +1,15 @@
+﻿'homework11.exe' (Win32): Loaded 'C:\Users\holde\source\repos\ece10302_homework11\x64\Debug\homework11.exe'. Symbols loaded.
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Cannot find or open the PDB file.
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Cannot find or open the PDB file.
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Cannot find or open the PDB file.
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. Cannot find or open the PDB file.
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. Cannot find or open the PDB file.
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Cannot find or open the PDB file.
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Cannot find or open the PDB file.
+The thread 0x1c20 has exited with code 0 (0x0).
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Cannot find or open the PDB file.
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Cannot find or open the PDB file.
+'homework11.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Cannot find or open the PDB file.
+The thread 0x2298 has exited with code 0 (0x0).
+The thread 0x31b0 has exited with code 0 (0x0).
+The program '[18464] homework11.exe' has exited with code 0 (0x0).
