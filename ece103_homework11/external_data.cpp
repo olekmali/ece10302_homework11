@@ -1,3 +1,4 @@
+// Modify this file as instructed by the assignment
 #include "external_data.h"
 
 char nickname_list[25][30] = {
